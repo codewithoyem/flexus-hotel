@@ -104,7 +104,7 @@ export function Footer() {
             © {new Date().getFullYear()} Flexus Hotel Suites. All rights reserved.
           </p>
           <p className="text-gray-500 text-sm">
-            Crafted with <span className="text-amber-400">♥</span> in Lagos
+            Powered by <span className="text-amber-400 font-medium">@codewithoyem</span>
           </p>
         </motion.div>
       </div>

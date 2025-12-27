@@ -1,7 +1,7 @@
 
   # Next Gen Hotel Landing Page
 
-  This is a code bundle for Next Gen Hotel Landing Page. The original project is available at https://www.figma.com/design/JfBuSF3rlPFlOa4HcsOIG1/Next-Gen-Hotel-Landing-Page.
+  This is a code bundle for Next Gen Hotel Landing Page. The original project is available at https://github.com/codewithoyem/flexus-hotel.git.
 
   ## Running the code
 
